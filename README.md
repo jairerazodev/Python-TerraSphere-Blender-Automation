@@ -1,4 +1,4 @@
-# Python-TerraSphere-Blender-Automation
+🐍# Python-TerraSphere-Blender-Automation
 Script that make a TerraSphere in Blender with Python
 
 Here is a script that will create 1024 cubes, add them to a collection, and place them on a sphere with a radius of 40 units. The cubes will be shaded with a blue emission material and will face the 3D cursor.
